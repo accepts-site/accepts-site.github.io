@@ -287,10 +287,14 @@ a:focus, a:hover {
   color: #3c6360;
 }
 
-.bg-black {
+/* .bg-black {
   background-color: #161616 !important;
 }
+*/
 
+.bg-black {
+  background-color: #add8e6 !important;
+}
 .bg-primary {
   background-color: #64a19d !important;
 }
