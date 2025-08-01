@@ -21,7 +21,7 @@
 }
 
 #mainNav .navbar-brand {
-  color: #161616;
+  color: #add8e6; /* #161616; */
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -287,10 +287,14 @@ a:focus, a:hover {
   color: #3c6360;
 }
 
-.bg-black {
+/* .bg-black {
   background-color: #161616 !important;
 }
+*/
 
+.bg-black {
+  background-color: #add8e6 !important;
+}
 .bg-primary {
   background-color: #64a19d !important;
 }
